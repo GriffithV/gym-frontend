@@ -91,5 +91,3 @@ src/
 - **Tipografi:** Display *Big Shoulders Display* + Body *Familjen Grotesk* + Mono *JetBrains Mono*.
 - **Ritim:** 4-pt baseline, slash-divider (`//`) ve hairline rule yapısal eleman.
 - **Hareket:** Stat hero count-up (mount), card stagger reveal, voltage-flicker hover, scan-line atmosphere.
-
-Tasarım dökümanı: `../docs/superpowers/specs/2026-05-10-gym-operator-panel-design.md`.
